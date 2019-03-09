@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: skynet-db
+server:
+    port: 12000
